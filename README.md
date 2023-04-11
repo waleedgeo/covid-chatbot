@@ -24,7 +24,7 @@ The data for the chatbot was collected from the following sources:
 
 # LSTM Model Summary
 
-The model was trained using LSTM model for 200 epochs. The model was trained using the Adam optimizer with a learning rate of 0.001. The model was trained on a GPU (NVEDIA RTX 3070, Compute Unit 8.6). The summary of model is:
+The model was trained using LSTM model for 200 epochs. The model was trained using the Adam optimizer with a learning rate of 0.001. The model was trained on a GPU (NVIDIA RTX 3070, Compute Unit 8.6). The summary of model is:
 
 ![Model](model_summary.png)
 
