@@ -30,7 +30,7 @@ The model was trained using LSTM model for 200 epochs. The model was trained usi
 
 # Accuracy
 
-The model is trained on the [COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research) and achieves an accuracy of 0.99.
+The model is trained on the above mentioned sources data, and achieves an accuracy of 0.99. Furthermore, to validate the model performance, a survey will be performed. The results of the survey will be updated here.
 
 ![Accuracy](model_accuracy.png)
 
